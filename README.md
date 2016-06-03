@@ -32,7 +32,7 @@
 
 * [从 React Router 谈谈路由的那些事](http://stylechen.com/react-router.html)
 
-*[React Router Demo](https://github.com/chenmnkken/react-demo/tree/master/react-router-demo)
+* [React Router Demo](https://github.com/chenmnkken/react-demo/tree/master/react-router-demo)
 
 * [Fluxxor](http://fluxxor.com/)
 
