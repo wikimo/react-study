@@ -41,3 +41,5 @@
 * [react 入门教程](https://www.gitbook.com/book/hulufei/react-tutorial/details)
 
 * [object-assign](https://www.npmjs.com/package/object-assign)
+
+* [react-router是只能在浏览中起作用吧](https://segmentfault.com/q/1010000004085545)
